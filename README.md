@@ -9,9 +9,9 @@ The application will provide users with the ability to access and display weathe
 |----------------------------|-------------------------------------|----------------------------------------|----------------------------------------------------|
 | Responsive and Asynchronous | Auto-Suggestion for City Selection   | Additional Weather Data Visualization (Ie graphs)  | Integration with Third-Party APIs for More Data    |
 | Weather Data Retrieval     | Date Range Selection                 | Historical Weather Data                 | User Account and Personalized Settings             |
-| City Selection             |  |     |       |
-| Display Current Conditions |           |           | Integration with Mapping Services for Geolocation |
-| Error Handling             |        | Additional Weather Metrics              | Voice-Based Interaction or Assistant Functionality |
+| City Selection             |  |  Additional Weather Metrics   |   Integration with Mapping Services for Geolocation    |
+| Display Current Conditions |           |           | Voice-Based Interaction or Assistant Functionality |
+| Error Handling             |        |               |  |
 | Documentation and Instructions | | | |
 
 
